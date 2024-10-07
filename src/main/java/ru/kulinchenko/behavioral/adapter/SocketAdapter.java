@@ -1,4 +1,4 @@
-package ru.kulinchenko.adapter;
+package ru.kulinchenko.behavioral.adapter;
 
 /* Адаптер, который совмещает ЕвроСокет с американским сокетом */
 public class SocketAdapter implements EuroSocket {

@@ -1,4 +1,4 @@
-package ru.kulinchenko.adapter;
+package ru.kulinchenko.behavioral.adapter;
 
 /* Американская розетка */
 public interface AmericanSocket {

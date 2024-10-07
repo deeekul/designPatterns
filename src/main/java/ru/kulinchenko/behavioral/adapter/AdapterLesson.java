@@ -1,4 +1,4 @@
-package ru.kulinchenko.adapter;
+package ru.kulinchenko.behavioral.adapter;
 
 /* В этом примере нужно "превратить" американскую розетку в европейскую, чтобы мы могли слушать радио */
 public class AdapterLesson {

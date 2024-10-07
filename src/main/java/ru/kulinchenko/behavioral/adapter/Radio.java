@@ -1,4 +1,4 @@
-package ru.kulinchenko.adapter;
+package ru.kulinchenko.behavioral.adapter;
 
 /* Пусть у нас есть радио и мы хотим послушать музыку, но радио подключается только к европейской розетке. */
 public class Radio {
